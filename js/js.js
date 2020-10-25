@@ -112,7 +112,6 @@ function validate(){
      alert("Formulaire envoyé avec succès!");
 }
 
-
  function initPayPalButton() {
                         paypal.Buttons({
                             style: {
@@ -142,5 +141,7 @@ function validate(){
                     }
 
                     initPayPalButton();
+
+
 
 
